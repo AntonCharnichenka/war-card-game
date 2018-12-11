@@ -6,3 +6,5 @@ If two cards of the opponents are equal they compare the next pair of the cards.
 The winner of the each round collect all the cards that have been played.
 
 Players: 2
+
+Run 'war card game.py' to play
